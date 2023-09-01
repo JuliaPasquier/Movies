@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+ <html>
+    <header>
+        <head>
+            <title>MOVIES</title>
+        </head>
+
+        <h1><b><font size="+4">MOVIES</font></b></h1>
+       
+<p><b><font size="+3">My Top 3 Movies:</font></b></p>
+
+<ol>
+    <li>In time</li>
+    <li>Seigneur des anneaux</li>
+    <li>Harry potter</li>
+
+</ol>
+
+<p><b><font size="+3">Other good movies :</font></b></p>
+
+<ul>
+    <li>Alien</li>
+    <li>Parasite</li>
+    <li>Annie hall</li>
+</ul>
+    </header>
+ </html>
